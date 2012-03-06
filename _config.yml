@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://bhousel.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: It's Octopress
+subtitle: helscome my wedsite
+author: Bryan Housel
 simple_search: http://google.com/search
 description:
 
@@ -64,8 +64,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
+twitter_user: bhousel
+twitter_tweet_count: 6
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
