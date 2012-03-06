@@ -4,7 +4,7 @@
   <title><![CDATA[It's Octopress]]></title>
   <link href="http://bhousel.github.com/atom.xml" rel="self"/>
   <link href="http://bhousel.github.com/"/>
-  <updated>2012-03-06T08:14:39-05:00</updated>
+  <updated>2012-03-06T09:06:24-05:00</updated>
   <id>http://bhousel.github.com/</id>
   <author>
     <name><![CDATA[Bryan Housel]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://bhousel.github.com/blog/2012/03/06/first-post/"/>
+    <updated>2012-03-06T08:51:00-05:00</updated>
+    <id>http://bhousel.github.com/blog/2012/03/06/first-post</id>
+    <content type="html"><![CDATA[<p>Some Markdown&#8230;
+Some of these words <em>are emphasized</em>.
+Some of these words <em>are emphasized also</em>.</p>
+
+<p>Use two asterisks for <strong>strong emphasis</strong>.
+Or, if you prefer, <strong>use two underscores instead</strong>.</p>
+
+<blockquote><p>This is a blockquote.</p>
+
+<p>This is the second paragraph in the blockquote.</p></blockquote>
+]]></content>
+  </entry>
   
 </feed>
