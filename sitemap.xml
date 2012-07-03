@@ -1,15 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://bhousel.github.com/blog/2012/03/06/first-post/</loc>
-        <lastmod>2012-03-06T09:06:15-05:00</lastmod>
+        <loc>http://bhousel.github.com/blog/2011/03/31/about-me/</loc>
+        <lastmod>2012-07-03T01:11:02-04:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://bhousel.github.com/blog/2011/04/01/how-did-you-get-started-in-programming/
+        </loc>
+        <lastmod>2012-07-03T00:48:20-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bhousel.github.com/blog/2011/04/02/what-was-the-first-real-program/</loc>
+        <lastmod>2012-07-03T01:04:21-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bhousel.github.com/blog/2011/04/03/what-languages-have-you-used/</loc>
+        <lastmod>2012-07-03T01:08:11-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bhousel.github.com/blog/2011/04/04/what-was-your-first-programming-gig/</loc>
+        <lastmod>2012-07-03T00:56:38-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bhousel.github.com/blog/2011/04/05/if-you-know-then-what-you-know-now/</loc>
+        <lastmod>2012-07-03T00:59:37-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bhousel.github.com/blog/2011/04/06/one-thing-to-tell-new-developers/</loc>
+        <lastmod>2012-07-03T01:00:21-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bhousel.github.com/blog/2011/04/07/most-fun-had-programming/</loc>
+        <lastmod>2012-07-03T01:01:34-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bhousel.github.com/blog/2011/04/17/i-have-my-own-word/</loc>
+        <lastmod>2012-07-03T01:03:29-04:00</lastmod>
     </url>
     <url>
         <loc>http://bhousel.github.com/blog/archives/</loc>
-        <lastmod>2012-03-06T09:06:15-05:00</lastmod>
+        <lastmod>2012-07-03T01:11:02-04:00</lastmod>
     </url>
     <url>
         <loc>http://bhousel.github.com/</loc>
-        <lastmod>2012-03-06T09:06:15-05:00</lastmod>
+        <lastmod>2012-07-03T01:11:02-04:00</lastmod>
     </url>
 </urlset>

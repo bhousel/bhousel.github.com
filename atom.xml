@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[It's Octopress]]></title>
+  <title><![CDATA[The 7th Position]]></title>
   <link href="http://bhousel.github.com/atom.xml" rel="self"/>
   <link href="http://bhousel.github.com/"/>
-  <updated>2012-03-06T09:06:24-05:00</updated>
+  <updated>2012-07-03T01:15:24-04:00</updated>
   <id>http://bhousel.github.com/</id>
   <author>
     <name><![CDATA[Bryan Housel]]></name>
@@ -14,20 +14,331 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://bhousel.github.com/blog/2012/03/06/first-post/"/>
-    <updated>2012-03-06T08:51:00-05:00</updated>
-    <id>http://bhousel.github.com/blog/2012/03/06/first-post</id>
-    <content type="html"><![CDATA[<p>Some Markdown&#8230;
-Some of these words <em>are emphasized</em>.
-Some of these words <em>are emphasized also</em>.</p>
+    <title type="html"><![CDATA[I have my own word]]></title>
+    <link href="http://bhousel.github.com/blog/2011/04/17/i-have-my-own-word/"/>
+    <updated>2011-04-17T00:00:00-04:00</updated>
+    <id>http://bhousel.github.com/blog/2011/04/17/i-have-my-own-word</id>
+    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/thumbs_down.jpg" width="266" height="400"></p>
 
-<p>Use two asterisks for <strong>strong emphasis</strong>.
-Or, if you prefer, <strong>use two underscores instead</strong>.</p>
+<p><strong>be·hou·sel</strong> -
+<a href="http://dictionary.reference.com/help/ahd4/pronkey.html">(bĭ-hou &#8216;zəl)</a>
+<em>-verb (used with object),</em> <strong>-seled, -sel·ing</strong></p>
 
-<blockquote><p>This is a blockquote.</p>
+<p>Definition:<br/>
+To unimpress or underwhelm esp. so as to make obvious to faults or shortcomings:</p>
 
-<p>This is the second paragraph in the blockquote.</p></blockquote>
+<p>Usage:<br/>
+<em>&#8220;Audiences were behouseled by The Phantom Menace.&#8221;</em></p>
+
+<p>Related forms:<br/>
+<strong>be·hou·sel·ment</strong>, <em>noun</em><br/>
+<strong>be·hou·sel·ing·ly</strong>, <em>adverb</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What's the most fun you've ever had programming?]]></title>
+    <link href="http://bhousel.github.com/blog/2011/04/07/most-fun-had-programming/"/>
+    <updated>2011-04-07T00:00:00-04:00</updated>
+    <id>http://bhousel.github.com/blog/2011/04/07/most-fun-had-programming</id>
+    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/floops.jpg" width="452" height="302" title="Floops!" ></p>
+
+<p>During the dot-com bubble in the late &#8217;90s
+I worked at a startup company called
+<a href="http://www.openworlds.com/">OpenWorlds</a>, just
+me and a few other programmers in a small office. 
+We were building a toolkit for using
+<a href="http://en.wikipedia.org/wiki/Vrml">VRML</a> and
+<a href="http://en.wikipedia.org/wiki/X3D">X3D</a>, which was
+a kind of 3D version of the HTML that powers the world wide web. 
+VRML never took off, for
+<a href="http://www.softwaredeveloper.com/features/ghosts-in-machine-071207/">many reasons</a>
+that seem obvious now, but at the
+time people were excited about anything involving the web or 3D graphics.</p>
+
+<p>The best part of the job was traveling to conventions like
+<a href="http://www.siggraph.org/">SIGGRAPH</a>
+to demo our software with a bunch
+of other startup companies. They did this thing called the
+<a href="http://www.web3d.org/">Web3D</a> RoundUP where each company had a few
+minutes to do a demo, and the audience, served alcohol beforehand, had
+noisemakers to let you know how well the demo was going. If you went over
+time, they’d shoot you with ping pong ball guns.  There was a lot of last
+minute coding going on, and the demos were pretty crashy, but the whole party
+atmosphere at the time was loads of fun.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[If there is one thing you learned along the way that you would tell new developers, what would it be?]]></title>
+    <link href="http://bhousel.github.com/blog/2011/04/06/one-thing-to-tell-new-developers/"/>
+    <updated>2011-04-06T00:00:00-04:00</updated>
+    <id>http://bhousel.github.com/blog/2011/04/06/one-thing-to-tell-new-developers</id>
+    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/compass.jpg" width="400" height="266"></p>
+
+<p>To be really successful in this business, you need to be more than just a
+programmer.  You need people skills, communication, and empathy.  You need
+creativity and curiosity - never stop reading and learning.  You need to be
+a critical thinker and a problem solver.</p>
+
+<p>Get out in the world and meet people who are not programmers, and understand
+<em>their</em> needs, and build software that <em>they</em> can use.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[If you knew then what you know now, would you have started programming?]]></title>
+    <link href="http://bhousel.github.com/blog/2011/04/05/if-you-know-then-what-you-know-now/"/>
+    <updated>2011-04-05T00:00:00-04:00</updated>
+    <id>http://bhousel.github.com/blog/2011/04/05/if-you-know-then-what-you-know-now</id>
+    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/electrical_engineering.jpg" width="400" height="266"></p>
+
+<p>Yes! In fact, I majored in Electrical and Computer Engineering in college.
+This involved lots of circuit design, robotics, electronics, power systems,
+etc. I got a minor in Computer Science almost as an afterthought. But if I
+knew then what I know now, I would have majored in Computer Science instead.</p>
+
+<p>Today&#8217;s hardware is complicated stuff, and I realized about halfway through
+getting my degree that engineers today are pretty much limited to working on
+tiny pieces of big projects. Sure, there was time when a few engineers could
+launch a hardware company from their garage, but those days are long gone.
+The barrier to entry in the hardware business has increased so much that you
+now need to be a big international company, like Sony or Apple, to begin to
+think about bringing new hardware to market.</p>
+
+<p>Software has gotten complex too - but creating software is still accessible
+to anyone with an idea, a computer, and an internet connection. The tools
+that we use to create software are, themselves, other pieces of software that
+have evolved to match the demands of this business that we’re in. We have
+frameworks and toolkits and libraries (often free!) to handle all those
+complicated details for us. Developing software still feels creative and
+personal. Once it’s complete, you can show it to people and say, &#8220;I did that.&#8221;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What was your first professional programming gig?]]></title>
+    <link href="http://bhousel.github.com/blog/2011/04/04/what-was-your-first-programming-gig/"/>
+    <updated>2011-04-04T00:00:00-04:00</updated>
+    <id>http://bhousel.github.com/blog/2011/04/04/what-was-your-first-programming-gig</id>
+    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/handshake.jpg" width="400" height="266"></p>
+
+<p>One of the best decisions I made was to go to
+<a href="http://www.drexel.edu/">Drexel University</a> for my undergraduate degree,
+because they basically require everyone to go on internships. You get your
+degree in 5 years, but for the middle three years you alternate between 6
+months of class and 6 months of paid internship. Drexel even had a required
+class for all freshmen to teach you how to write a resume, how to interview,
+how to act at work, etc.</p>
+
+<p>So in 1995, my sophomore year in college, I went to work at my first
+internship for a small consulting company called
+<a href="http://www.gnostech.com/">Gnostech</a>.
+I remember in the interview they asked me:</p>
+
+<ol>
+<li><p>Do you ever work on programming projects on the side just for fun?<br/>
+(&#8220;Yes, I’m working on an online game. I haven’t decided whether it will
+be set in medieval times or outer space, so I’m trying to be as generic
+as possible.&#8221;)</p></li>
+<li><p>Do you know the difference between C and C++?<br/>
+(&#8220;Not really, they look the same, but I know in C++ you can change around
+how the operators work.&#8221;).</p></li>
+</ol>
+
+
+<p>I guess those answers were good enough for them, so they marked me down as a
+&#8220;qualified alternate&#8221; and I somehow got the job.</p>
+
+<p>Gnostech was a typical small company, and they did all kinds of various
+computer stuff for other companies in the area - which actually made it a
+fantastic place to do an internship. One day I might be installing a network,
+another day I’d be soldering components onto circuit boards, another day I was
+writing software to test the circuit boards.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What languages have you used since you started programming?]]></title>
+    <link href="http://bhousel.github.com/blog/2011/04/03/what-languages-have-you-used/"/>
+    <updated>2011-04-03T00:00:00-04:00</updated>
+    <id>http://bhousel.github.com/blog/2011/04/03/what-languages-have-you-used</id>
+    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/c_programming_language.jpg" width="246" height="323"></p>
+
+<p>Wow, that’s a long list.</p>
+
+<!--more-->
+
+
+<p>At my first job, I mostly updated other people’s programs using
+<a href="http://en.wikipedia.org/wiki/C_%28programming_language%29">C</a>,
+<a href="http://en.wikipedia.org/wiki/C%2B%2B">C++</a>,
+<a href="http://en.wikipedia.org/wiki/Visual_basic">Visual Basic</a>, and even a little
+<a href="http://en.wikipedia.org/wiki/Fortran">FORTRAN</a>.  I started to learn
+<a href="http://en.wikipedia.org/wiki/Ada_%28programming_language%29">Ada</a>,
+because at the time I thought it would be the next big thing.</p>
+
+<p>Throughout college, I actually majored in
+<a href="http://en.wikipedia.org/wiki/Electrical_engineering">Electrical Engineering</a>,
+so we had to learn other kinds of programming languages that most programmers
+don’t bother with &#8211; stuff like
+<a href="http://en.wikipedia.org/wiki/Labview">Labview</a>,
+<a href="http://en.wikipedia.org/wiki/Maple_%28software%29">Maple</a>,
+<a href="http://en.wikipedia.org/wiki/Matlab">MATLAB</a>,
+<a href="http://en.wikipedia.org/wiki/SPICE">SPICE</a>, and various
+<a href="http://en.wikipedia.org/wiki/Assembly_language">assembly languages</a>.
+In one class, we wrote a traffic light simulator in
+<a href="http://en.wikipedia.org/wiki/Vhdl">VHDL</a> and burned that code onto
+<a href="http://en.wikipedia.org/wiki/FPGA">FPGA</a> chips, then hooked it up to
+little red, yellow, and green LEDs on a breadboard.
+And I took another fun class where we used
+<a href="http://en.wikipedia.org/wiki/Objective_c">Objective C</a> to get a little Lego
+robot to navigate around obstacles without falling off a table. 
+I even won a t-shirt for that.</p>
+
+<p>I also got a minor in
+<a href="http://en.wikipedia.org/wiki/Computer_science">Computer Science</a>
+and, already knowing C, I was able to skip over a lot of courses.
+There were some classes using the more esoteric stuff like
+<a href="http://en.wikipedia.org/wiki/Prolog">Prolog</a> and
+<a href="http://en.wikipedia.org/wiki/Scheme_%28programming_language%29">Scheme</a> &#8211;
+those courses were fun for me.</p>
+
+<p>For a while I had a job working at a company that sold a
+<a href="http://en.wikipedia.org/wiki/Vrml">VRML</a> and
+<a href="http://en.wikipedia.org/wiki/X3D">X3D</a> toolkit built using
+<a href="http://en.wikipedia.org/wiki/C%2B%2B">C++</a> and
+<a href="http://en.wikipedia.org/wiki/Opengl">OpenGL</a>.  The parser library used
+<a href="http://en.wikipedia.org/wiki/Flex_lexical_analyser">Flex</a> and
+<a href="http://en.wikipedia.org/wiki/GNU_bison">Bison</a>, which I count as actual
+languages worth knowing.  We also used some
+<a href="http://en.wikipedia.org/wiki/Tcl">Tcl</a>,
+<a href="http://en.wikipedia.org/wiki/Java_%28programming_language%29">Java</a>, and
+<a href="http://en.wikipedia.org/wiki/Javascript">JavaScript</a> there.</p>
+
+<p>I picked up all the usual web stuff along the way, learning
+<a href="http://en.wikipedia.org/wiki/Html">HTML</a>,
+<a href="http://en.wikipedia.org/wiki/XML">XML</a>,
+<a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a>, and
+<a href="http://en.wikipedia.org/wiki/Javascript">JavaScript</a>.  I also used
+<a href="http://en.wikipedia.org/wiki/Php">PHP</a> and
+<a href="http://en.wikipedia.org/wiki/Perl">Perl</a> for some side projects.</p>
+
+<p>My day job involves building enterprise legal applications.  The
+<a href="http://www.lawmanager.com">LawManager</a>
+software that I use is written in
+<a href="http://en.wikipedia.org/wiki/CodeGear_Delphi">Delphi</a>, and uses
+<a href="http://en.wikipedia.org/wiki/Vbscript">VBScript</a> as a scripting language.
+It also supports an older proprietary scripting language called EvLa,
+and I’m probably one of only a handful in the world who knows it. 
+The job also requires me to know a lot of
+<a href="http://en.wikipedia.org/wiki/Sql">SQL</a>, both Microsoft
+<a href="http://en.wikipedia.org/wiki/T-SQL">T-SQL</a> and Oracle
+<a href="http://en.wikipedia.org/wiki/PL/SQL">PL/SQL</a> variants.</p>
+
+<p>For a while, I got really interested in
+<a href="http://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29">C#</a> and
+<a href="http://en.wikipedia.org/wiki/ASP.NET_MVC_Framework">ASP.NET MVC</a>.</p>
+
+<p>But my current favorite language is
+<a href="http://en.wikipedia.org/wiki/Ruby_%28programming_language%29">Ruby</a>
+I&#8217;ve built a few projects in
+<a href="http://en.wikipedia.org/wiki/Ruby_on_Rails">Ruby on Rails</a>.</p>
+
+<p>Also, I don’t think you can exist in this business without knowing some
+<a href="http://en.wikipedia.org/wiki/Shell_scripting">shell scripting</a> and
+<a href="http://en.wikipedia.org/wiki/Regular_expressions">regular expressions</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What was the first real program you wrote?]]></title>
+    <link href="http://bhousel.github.com/blog/2011/04/02/what-was-the-first-real-program/"/>
+    <updated>2011-04-02T00:00:00-04:00</updated>
+    <id>http://bhousel.github.com/blog/2011/04/02/what-was-the-first-real-program</id>
+    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/c64_prompt.gif" width="360" height="248"></p>
+
+<p>I remember playing a prank on my dad when I was a little kid. The Commodore 64s
+had an overheating issue where sometimes random exclamation marks would start
+to appear on the screen. Using the RND, PEEK, and POKE commands, I figured out
+how to clear the screen and start putting those &#8216;!&#8217; symbols all over the place.
+My dad initially got mad, thinking he would have to return yet another
+Commodore 64 to Toys &#8216;R Us or wherever he got it, until I showed him that it
+was just some silly program that I wrote.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How did you get started in programming?]]></title>
+    <link href="http://bhousel.github.com/blog/2011/04/01/how-did-you-get-started-in-programming/"/>
+    <updated>2011-04-01T00:00:00-04:00</updated>
+    <id>http://bhousel.github.com/blog/2011/04/01/how-did-you-get-started-in-programming</id>
+    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/c64.jpg" width="320" height="203"></p>
+
+<p>Back in the 1980’s, books and magazines would list BASIC programs and you could
+type them in line by line and run them yourself.  I remember getting an
+&#8220;Artificial Intelligence for the Commodore 64&#8221; book that started out with some
+simple classic computer programs, like Tic-Tac-Toe and Towers of Hanoi, and
+worked its way up in difficulty to <a href="http://en.wikipedia.org/wiki/ELIZA">ELIZA</a>.
+It took me forever to type in that
+<a href="http://www.atariarchives.org/bigcomputergames/showpage.php?page=22">complete Eliza program</a>,
+but I remember playing with the program for hours, trying to ask it silly
+questions.  For an impressionable little kid, that was pretty powerful stuff, to
+be able to type in a complete program and interact with it.</p>
+
+<p>The Commodore 64 had all of these cool peripherals that you could get for it. We
+got the <a href="http://en.wikipedia.org/wiki/Commodore_1541">1541 Disk Drive</a> and
+started swapping games with friends.  Anyone could copy games and disks, and you
+could even punch a hole in the side of the disk to make it double sided.  I
+wrote a menu program to load the games from the disks.  If I could go back and
+write that program differently, knowing what I know about programming today, I
+wouldn’t <a href="http://en.wikipedia.org/wiki/Hard_coding">hardcode</a> all the filenames.</p>
+
+<p><img src="http://bhousel.github.com/images/tradewars2002.jpg" width="400" height="232"></p>
+
+<p>When I was 12 years old, I borrowed a 300 baud modem from my friend Adam Foxman
+and never gave it back.  We both got involved in the
+<a href="http://en.wikipedia.org/wiki/Bulletin_board_system">BBS scene</a>,
+and we did our share of leeching <a href="http://en.wikipedia.org/wiki/Warez">warez</a>,
+playing
+<a href="http://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon">Legend of the Red Dragon</a>
+and <a href="http://en.wikipedia.org/wiki/TradeWars_2002">Tradewars</a>, reading the
+<a href="http://www.anarchistcookbookz.com/download.html">Anarchist&#8217;s Cookbook</a>,
+and all the other fun stuff that went along with the BBS scene at the time.
+Basically, everything that has happened to me since 1988 has been somehow Adam’s
+fault.</p>
+
+<p>By age 16, I had saved up enough money to buy my own computer, a
+brand new Intel 486 DX2/66, PC with a US Robotics Sportster 56k modem, and I
+decided to set up my own BBS.  I ran a copy of
+<a href="http://en.wikipedia.org/wiki/WWIV">WWIV</a>, mostly because all the other
+friendly sysops in the 215 area code were running it, and we could easily get
+the source code (which at the time was C).  I even got connected to WWIVlink so
+I could send mail and post messages that would get shuffled around the country.
+People used this pre-Internet to trade source code snippets and modifications.</p>
+
+<p>Predictably, one of my favorite mods for WWIV was replacing the normal
+chat with that silly Eliza simulation, so that when people would hit &#8216;C&#8217; to chat
+with the sysop, they&#8217;d be chatting up Eliza instead.  The mod even put random
+delays, typos, and backspaces into the chat.  At the time, many of the people
+who could call my BBS were still new to computers and didn&#8217;t catch on that they
+were chatting with a bot.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About Me]]></title>
+    <link href="http://bhousel.github.com/blog/2011/03/31/about-me/"/>
+    <updated>2011-03-31T00:00:00-04:00</updated>
+    <id>http://bhousel.github.com/blog/2011/03/31/about-me</id>
+    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/me_winning.jpg" width="480" height="360" title="Winning." ></p>
+
+<p>This photo was taken right after I won second place in my age group at
+a local 5k. I was a bit disappointed that they didn&#8217;t rush over
+and drape an American flag over my shoulders.</p>
+
+<p>My wife called me a &#8220;tool&#8221; (rightly) and then snapped this photo of me savoring
+the sweet metallic taste of almost victory.</p>
 ]]></content>
   </entry>
   
