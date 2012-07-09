@@ -3,7 +3,7 @@ layout: post
 title: I have my own word
 ---
 
-{% img /images/thumbs_down.jpg 266 400 %}
+{% img /images/thumbs_down.jpg 200 300 %}
 
 **be·hou·sel** -
 [(bĭ-hou 'zəl)](http://dictionary.reference.com/help/ahd4/pronkey.html)
