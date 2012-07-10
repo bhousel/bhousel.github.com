@@ -3,7 +3,7 @@ layout: post
 title: What's the most fun you've ever had programming?
 ---
 
-{% img /images/floops.jpg 452 302 Floops! %}
+{% img /images/floops.jpg 400 267 Floops! %}
 
 During the dot-com bubble in the late '90s
 I worked at a startup company called
