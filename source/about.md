@@ -1,6 +1,9 @@
 ---
-layout: post
+layout: page
 title: About Me
+comments: false
+sharing: false
+footer: true
 ---
 
 {% img /images/me_winning.jpg 480 360 Winning. %}
