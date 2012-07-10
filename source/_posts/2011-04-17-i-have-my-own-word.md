@@ -10,7 +10,7 @@ title: I have my own word
 *-verb (used with object),* **-seled, -sel·ing**
 
 Definition:  
-To unimpress or underwhelm esp. so as to make obvious to faults or shortcomings:
+To unimpress or underwhelm:
 
 Usage:  
 *"Audiences were behouseled by The Phantom Menace."*
