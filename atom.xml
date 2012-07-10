@@ -4,7 +4,7 @@
   <title><![CDATA[The 7th Position]]></title>
   <link href="http://bhousel.github.com/atom.xml" rel="self"/>
   <link href="http://bhousel.github.com/"/>
-  <updated>2012-07-09T00:33:58-04:00</updated>
+  <updated>2012-07-09T23:21:33-04:00</updated>
   <id>http://bhousel.github.com/</id>
   <author>
     <name><![CDATA[Bryan Housel]]></name>
@@ -41,7 +41,7 @@ To unimpress or underwhelm esp. so as to make obvious to faults or shortcomings:
     <link href="http://bhousel.github.com/blog/2011/04/07/most-fun-had-programming/"/>
     <updated>2011-04-07T00:00:00-04:00</updated>
     <id>http://bhousel.github.com/blog/2011/04/07/most-fun-had-programming</id>
-    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/floops.jpg" width="452" height="302" title="Floops!" ></p>
+    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/floops.jpg" width="400" height="267" title="Floops!" ></p>
 
 <p>During the dot-com bubble in the late &#8217;90s
 I worked at a startup company called
@@ -323,22 +323,6 @@ with the sysop, they&#8217;d be chatting up Eliza instead.  The mod even put ra
 delays, typos, and backspaces into the chat.  At the time, many of the people
 who could call my BBS were still new to computers and didn&#8217;t catch on that they
 were chatting with a bot.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[About Me]]></title>
-    <link href="http://bhousel.github.com/blog/2011/03/31/about-me/"/>
-    <updated>2011-03-31T00:00:00-04:00</updated>
-    <id>http://bhousel.github.com/blog/2011/03/31/about-me</id>
-    <content type="html"><![CDATA[<p><img src="http://bhousel.github.com/images/me_winning.jpg" width="480" height="360" title="Winning." ></p>
-
-<p>This photo was taken right after I won second place in my age group at
-a local 5k. I was a bit disappointed that they didn&#8217;t rush over
-and drape an American flag over my shoulders.</p>
-
-<p>My wife called me a &#8220;tool&#8221; (rightly) and then snapped this photo of me savoring
-the sweet metallic taste of almost victory.</p>
 ]]></content>
   </entry>
   
