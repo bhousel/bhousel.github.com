@@ -2,7 +2,7 @@
 // Add styles here to make changes without digging in too much
 @font-face {
   font-family: "League";
-  src: url('/font/LeagueGothic.otf');
+  src: url('/assets/fonts/LeagueGothic.otf');
 }
 
 a:visited, #content .blog-index article h1 a:hover { color: #1863A1; }
@@ -29,7 +29,7 @@ body > header{
 }
 
 body > header h1{
-//   font-size: 2.8em;
+  font-size: 2.8em;
 //   // padding-left: 20px;
   text-shadow: rgba(0, 0, 0, 0.8) 0 0 8px;
 }
