@@ -33,7 +33,7 @@ and we did our share of leeching [warez](http://en.wikipedia.org/wiki/Warez),
 playing
 [Legend of the Red Dragon](http://en.wikipedia.org/wiki/Legend_of_the_Red_Dragon)
 and [Tradewars](http://en.wikipedia.org/wiki/TradeWars_2002), reading the
-[Anarchist's Cookbook](http://www.anarchistcookbookz.com/download.html),
+[Anarchist Cookbook](http://www.textfiles.com/anarchy/),
 and all the other fun stuff that went along with the BBS scene at the time.
 Basically, everything that has happened to me since 1988 has been somehow Adam’s
 fault.
